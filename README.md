@@ -24,7 +24,7 @@ This interactive dashboard provides an in-depth exploration of Michael Jordan's 
 
 The dashboard is live and accessible through the following Heroku link:
 
-### URL: [Your Heroku App URL]
+### URL: https://michael-jordan-dashboard-978e2bc8a68d.herokuapp.com/
 
 ## How to Use
 
